@@ -4,11 +4,7 @@ You can use the [editor on GitHub](https://github.com/rohco-dev/rohco-dev.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![My Fancy Image - full url](https://rohco-dev.github.io/assets/images/triz_anime2.jpg)
-
-![My Fancy Image - root relative](/assets/images/triz_anime2.jpg)
-
-![My Fancy Image - relative](assets/images/triz_anime2.jpg)
+![An Image](assets/images/triz_anime2.jpg)
 
 ### Markdown
 
@@ -29,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![My Fancy Image](https://rohco-dev.github.io/assets/images/triz_anime2.jpg)
+[Link](url) and ![Image](url)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
