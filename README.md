@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/rohco-dev/rohco-dev.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![My Fancy Image - full url](https://rohco-dev.github.io/assets/images/triz_anime2.jpg)
+
+![My Fancy Image - root relative](/assets/images/triz_anime2.jpg)
+
+![My Fancy Image - relative](assets/images/triz_anime2.jpg)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
