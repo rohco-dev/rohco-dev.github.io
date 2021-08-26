@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![My Fancy Image](triz_anime2.jpg)
+[Link](url) and ![My Fancy Image](/assets/images/triz_anime2.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
